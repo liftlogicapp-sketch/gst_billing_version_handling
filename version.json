@@ -7,8 +7,8 @@
   },
   "windows": {
     "version": "1.0.2",
-    "notes": "New invoice format.",
+    "notes": "Dashboard default date selection filter is current FY",
     "mandatory": false,
-    "url": "https://github.com/YOUR_USER/gst-billing-releases/releases/download/v1.0.3/GST-Billing-Setup-1.0.3.exe"
+    "url": "https://github.com/liftlogicapp-sketch/gst_billing_version_handling/raw/refs/heads/main/GST%20Billing-Setup-1.0.2.exe"
   }
 }
