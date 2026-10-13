@@ -6,7 +6,7 @@
     "url": "https://github.com/YOUR_USER/gst-billing-releases/releases/download/v1.0.2/gst-billing-1.0.2.apk"
   },
   "windows": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "notes": "New invoice format.",
     "mandatory": false,
     "url": "https://github.com/YOUR_USER/gst-billing-releases/releases/download/v1.0.3/GST-Billing-Setup-1.0.3.exe"
